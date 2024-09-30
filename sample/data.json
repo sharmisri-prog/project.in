@@ -1,0 +1,50 @@
+{
+    "section": [
+      {
+        "id": "explore-section",
+        "class": "explore-area",
+        "h2": "Explore the world of management",
+        "p": "As a project manager, you play an important role in leading a project through initiation, planning, execution, monitoring, controlling, and completion. How? Do you want to manage each and every step of your life?"
+      },
+      {
+        "id": "description-section",
+        "class": "description-area",
+        "h2": "Technical Project Management",
+        "p": "<b>Description:</b> Story of Alignment Scope of Agility Specific Accountable Staggering Approach",
+        "img": "Group 1735.png"
+      },
+      {
+        "id": "build-section",
+        "class": "build-area",
+        "h2": "Threadbuild",
+        "p": "<b>Description:</b> Watch the video and thread build, and jot out key threads while watching that video.",
+        "img": "Group 1735.png",
+        "input": {
+          "type": "text",
+          "placeholder": "Enter your key threads here..."
+        }
+      },
+      {
+        "id": "structure-section",
+        "class": "structure-area",
+        "h2": "Structure your pointers",
+        "p": "<b>Description:</b> Write a 400-500 word article from your thread. Publish your understanding and showcase your learning to the entire world.",
+        "img": "Group 1735.png",
+        "input": {
+          "type": "textarea",
+          "placeholder": "Write your article here..."
+        }
+      },
+      {
+        "id": "4sa-section",
+        "class": "4sa-area",
+        "h2": "4SA Method",
+        "p": "<b>Description:</b> To explore more, read more",
+        "img": "Group 1735.png",
+        "a": {
+          "href": "https://dtthon.deepthought.education/sharer?id=01aa3cff-db8e-8d9d-afc0-1671715937878",
+          "text": "Read More"
+        }
+      }
+    ]
+  }
